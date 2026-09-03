@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="OonduI8SVLbJbuuly3my">
-    <mxGraphModel dx="895" dy="2429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1074" dy="2681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="집사" vertex="1">
           <mxGeometry height="80" width="120" x="460" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="기사" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="기사" vertex="1">
           <mxGeometry height="80" width="120" x="580" y="150" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할아버지" vertex="1">
@@ -224,7 +224,7 @@
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할머니" vertex="1">
           <mxGeometry height="80" width="120" x="730" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="필리아" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#ae4132;" value="필리아" vertex="1">
           <mxGeometry height="80" width="120" x="580" y="330" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="드레곤" vertex="1">
@@ -233,17 +233,23 @@
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="제자" vertex="1">
           <mxGeometry height="80" width="120" x="530" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할아버지" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="그레고르" vertex="1">
           <mxGeometry height="80" width="120" x="670" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할아버지" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="로제타" vertex="1">
           <mxGeometry height="80" width="120" x="770" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="아델라" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="아델라" vertex="1">
           <mxGeometry height="80" width="120" x="670" y="880" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="발터" vertex="1">
           <mxGeometry height="80" width="120" x="475" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-43" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원수&amp;nbsp; 불호&amp;nbsp; 남&amp;nbsp; 친구&amp;nbsp; 호감&amp;nbsp; 연인&lt;/h1&gt;&lt;div&gt;남으로 시작&lt;/div&gt;&lt;div&gt;플레이어의 호감은 몇 번을 만나냐에 따라 정해진다.&lt;/div&gt;&lt;div&gt;(이벤트를 몇 개를 보는 지에 따라간다.)&lt;/div&gt;&lt;div&gt;선택지에 따라 호감도가 떨어지거나 올라간다.&lt;/div&gt;&lt;div&gt;(잘못된 것을 선택하면 바로 호감도가 하락하여 남과 같은 사이가 된다. -&amp;gt; 선물로 매꿀 수 있다.)&lt;/div&gt;&lt;div&gt;불호의 단계에 접어들면 선물보다는 이벤트에서 호감을 사야한다.&lt;/div&gt;&lt;div&gt;원수 단계가 되면 npc는 말을 걸어도 답하지 않고 3번 이상 말을 걸면 이후 플레이어가 말도 못 걸게 피해다닌다.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="370" x="300" y="-620" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;-30&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;-10&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; &lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;70&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;100&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="310" y="-650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
