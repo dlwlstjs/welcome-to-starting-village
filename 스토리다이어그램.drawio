@@ -48,22 +48,21 @@
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-2" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AOWWeh0qqzr5JTAXAL6s-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="-200" />
+              <mxPoint x="330" y="-160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-16" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="-40" />
+              <mxPoint x="360" y="-40" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-18" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AOWWeh0qqzr5JTAXAL6s-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="160" />
-              <mxPoint x="520" y="160" />
+              <mxPoint x="390" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,7 +70,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="280" />
-              <mxPoint x="480" y="190" />
+              <mxPoint x="480" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,10 +78,20 @@
           <mxGeometry height="80" width="120" x="280" y="240" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-32" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="640" />
+              <mxPoint x="480" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-33" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="660" />
+              <mxPoint x="470" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="광부" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="600" as="geometry" />
@@ -94,14 +103,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="380" />
-              <mxPoint x="420" y="310" />
+              <mxPoint x="420" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-28" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="430" />
+              <mxPoint x="430" y="420" />
+              <mxPoint x="430" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,23 +119,27 @@
           <mxGeometry height="80" width="120" x="280" y="360" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-39" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="AOWWeh0qqzr5JTAXAL6s-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="780" />
+              <mxPoint x="410" y="1160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-40" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-36">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-40" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="750" />
-              <mxPoint x="585" y="750" />
-              <mxPoint x="585" y="850" />
+              <mxPoint x="460" y="750" />
+              <mxPoint x="460" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-41" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="AOWWeh0qqzr5JTAXAL6s-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="760" />
-              <mxPoint x="460" y="820" />
-              <mxPoint x="730" y="820" />
+              <mxPoint x="430" y="760" />
+              <mxPoint x="430" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -139,7 +153,11 @@
           <mxGeometry height="80" width="120" x="280" y="480" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-42" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-38">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="목수" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="840" as="geometry" />
@@ -153,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="공작" vertex="1">
-          <mxGeometry height="80" width="120" x="400" y="-240" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -210,40 +228,40 @@
           <mxGeometry height="40" width="80" x="920" y="-320" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="시녀" vertex="1">
-          <mxGeometry height="80" width="120" x="470" y="-80" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="집사" vertex="1">
-          <mxGeometry height="80" width="120" x="460" y="50" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="40" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="기사" vertex="1">
-          <mxGeometry height="80" width="120" x="580" y="150" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="160" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할아버지" vertex="1">
-          <mxGeometry height="80" width="120" x="760" y="390" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="520" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할머니" vertex="1">
-          <mxGeometry height="80" width="120" x="730" y="270" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="280" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#ae4132;" value="필리아" vertex="1">
-          <mxGeometry height="80" width="120" x="580" y="330" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="400" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="드레곤" vertex="1">
-          <mxGeometry height="80" width="120" x="530" y="505" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="640" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="제자" vertex="1">
-          <mxGeometry height="80" width="120" x="530" y="610" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="760" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="그레고르" vertex="1">
-          <mxGeometry height="80" width="120" x="670" y="700" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="로제타" vertex="1">
-          <mxGeometry height="80" width="120" x="770" y="790" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="880" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="아델라" vertex="1">
-          <mxGeometry height="80" width="120" x="670" y="880" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="발터" vertex="1">
-          <mxGeometry height="80" width="120" x="475" y="880" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-43" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원수&amp;nbsp; 불호&amp;nbsp; 남&amp;nbsp; 친구&amp;nbsp; 호감&amp;nbsp; 연인&lt;/h1&gt;&lt;div&gt;남으로 시작&lt;/div&gt;&lt;div&gt;플레이어의 호감은 몇 번을 만나냐에 따라 정해진다.&lt;/div&gt;&lt;div&gt;(이벤트를 몇 개를 보는 지에 따라간다.)&lt;/div&gt;&lt;div&gt;선택지에 따라 호감도가 떨어지거나 올라간다.&lt;/div&gt;&lt;div&gt;(잘못된 것을 선택하면 바로 호감도가 하락하여 남과 같은 사이가 된다. -&amp;gt; 선물로 매꿀 수 있다.)&lt;/div&gt;&lt;div&gt;불호의 단계에 접어들면 선물보다는 이벤트에서 호감을 사야한다.&lt;/div&gt;&lt;div&gt;원수 단계가 되면 npc는 말을 걸어도 답하지 않고 3번 이상 말을 걸면 이후 플레이어가 말도 못 걸게 피해다닌다.&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="370" x="300" y="-620" as="geometry" />
