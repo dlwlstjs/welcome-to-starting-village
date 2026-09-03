@@ -1,29 +1,75 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="OonduI8SVLbJbuuly3my">
-    <mxGraphModel dx="1429" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-9" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x5bWyNsJQMMhn6YmUZaD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160.06" y="280.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-10" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x5bWyNsJQMMhn6YmUZaD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="556.71" />
+              <mxPoint x="200" y="400.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-11" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x5bWyNsJQMMhn6YmUZaD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="585" />
+              <mxPoint x="240" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-13" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x5bWyNsJQMMhn6YmUZaD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="613.29" />
+              <mxPoint x="200" y="760.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-14" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x5bWyNsJQMMhn6YmUZaD-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="880.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="프롤로그" vertex="1">
-          <mxGeometry height="80" width="120" x="90" y="505" as="geometry" />
+          <mxGeometry height="80" width="120" x="100" y="545" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="하녀" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="240" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="광부" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="640" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="600" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="농부" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="400" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="360" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="사육사" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="760" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="720" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="모험가" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="520" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="480" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="목수" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="880" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-12" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.029;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" target="x5bWyNsJQMMhn6YmUZaD-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="585" />
+              <mxPoint x="240" y="648.11" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
