@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="OonduI8SVLbJbuuly3my">
-    <mxGraphModel dx="1074" dy="2681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1343" dy="3059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,13 @@
           <mxGeometry height="80" width="120" x="280" y="600" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-25" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="460" />
+              <mxPoint x="460" y="460" />
+              <mxPoint x="460" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-26" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-23">
           <mxGeometry relative="1" as="geometry">
@@ -110,8 +116,8 @@
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-28" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AOWWeh0qqzr5JTAXAL6s-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="420" />
-              <mxPoint x="430" y="560" />
+              <mxPoint x="470" y="420" />
+              <mxPoint x="470" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,7 +165,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5bWyNsJQMMhn6YmUZaD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="목수" vertex="1">
+        <mxCell id="x5bWyNsJQMMhn6YmUZaD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="조각가" vertex="1">
           <mxGeometry height="80" width="120" x="280" y="840" as="geometry" />
         </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-12" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.029;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" target="x5bWyNsJQMMhn6YmUZaD-4">
@@ -169,9 +175,6 @@
               <mxPoint x="240" y="648.11" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="공작" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -215,7 +218,7 @@
             <mxPoint x="760" y="-320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#004C99;" value="대장간" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#004C99;" value="목장" vertex="1">
           <mxGeometry height="40" width="80" x="760" y="-320" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#00FFFF;" value="">
@@ -224,50 +227,98 @@
             <mxPoint x="920" y="-320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#CC6600;" value="목수" vertex="1">
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#CC6600;" value="조각가" vertex="1">
           <mxGeometry height="40" width="80" x="920" y="-320" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="시녀" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="-80" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="집사" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="기사" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할아버지" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="할머니" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#ae4132;" value="필리아" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="드레곤" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="제자" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="760" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="그레고르" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="로제타" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="880" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="아델라" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="AOWWeh0qqzr5JTAXAL6s-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="발터" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-43" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원수&amp;nbsp; 불호&amp;nbsp; 남&amp;nbsp; 친구&amp;nbsp; 호감&amp;nbsp; 연인&lt;/h1&gt;&lt;div&gt;남으로 시작&lt;/div&gt;&lt;div&gt;플레이어의 호감은 몇 번을 만나냐에 따라 정해진다.&lt;/div&gt;&lt;div&gt;(이벤트를 몇 개를 보는 지에 따라간다.)&lt;/div&gt;&lt;div&gt;선택지에 따라 호감도가 떨어지거나 올라간다.&lt;/div&gt;&lt;div&gt;(잘못된 것을 선택하면 바로 호감도가 하락하여 남과 같은 사이가 된다. -&amp;gt; 선물로 매꿀 수 있다.)&lt;/div&gt;&lt;div&gt;불호의 단계에 접어들면 선물보다는 이벤트에서 호감을 사야한다.&lt;/div&gt;&lt;div&gt;원수 단계가 되면 npc는 말을 걸어도 답하지 않고 3번 이상 말을 걸면 이후 플레이어가 말도 못 걸게 피해다닌다.&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="370" x="300" y="-620" as="geometry" />
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;-30&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;-10&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; &lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;70&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;100&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="300" x="310" y="-650" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-46" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: rgb(240, 244, 249); color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; font-weight: normal;&quot;&gt;이 게임은 연애 시뮬레이션을 가장한 세계 구하기가 목표&lt;/span&gt;&lt;/h1&gt;&lt;span class=&quot;line ng-star-inserted&quot; style=&quot;display: inline; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;아직은 얼리억세스로 시작마을만 구현할 거지만 궁극적으로&lt;/span&gt;&lt;br class=&quot;ng-star-inserted&quot; style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;&lt;span class=&quot;line ng-star-inserted&quot; style=&quot;display: inline; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;시작마을 - 평화로운 마을 -&amp;gt; 마왕의 부활로 초토화&lt;/span&gt;&lt;br class=&quot;ng-star-inserted&quot; style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;&lt;span class=&quot;line ng-star-inserted&quot; style=&quot;display: inline; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;왕성 - 왕의 부름 -&amp;gt; 힘을 키우기 및 정보 수집&lt;/span&gt;&lt;br class=&quot;ng-star-inserted&quot; style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;&lt;span class=&quot;line ng-star-inserted&quot; style=&quot;display: inline; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;마왕성 - 침입 및 잠입 -&amp;gt; 마왕과 전투&lt;/span&gt;&lt;br class=&quot;ng-star-inserted&quot; style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;&lt;span class=&quot;line ng-star-inserted&quot; style=&quot;display: inline; margin-block-end: 0px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(240, 244, 249);&quot;&gt;세 개의 마을로 되어 있음.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="180" width="396" x="324" y="-1030" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-48" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="기간별 단계&lt;div&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;b style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;1~2개월 (초반):&lt;/b&gt; 직업 익히기 + NPC 개방 (호감도 &#39;남&#39; &lt;span class=&quot;math-inline&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;-&amp;gt;&lt;/span&gt; &#39;친구&#39;)&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;b style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;3~4개월 (중반):&lt;/b&gt; 직업 특화 이벤트 + 핵심 호감도 에피소드 (호감도 &#39;친구&#39; -&amp;gt; &#39;호감&#39;)&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;b style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;5~6개월 (후반):&lt;/b&gt; 마왕 부활 복선 획득 + 최종 호감도 에피소드 (호감도 &#39;호감&#39; -&amp;gt; &#39;연인&#39;)&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;b style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;6개월 말 (종장):&lt;/b&gt; 마왕 부활 이벤트 (시작마을 파괴)&lt;/p&gt;&lt;/li&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="510" x="740" y="-1010" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-49" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;직업(초반 선택된 직업은 변경 불가)&lt;/h1&gt;&lt;p&gt;하인 : 월 수 금 오전 출근&lt;/p&gt;&lt;p&gt;농부 : 평일 오전 출근&lt;/p&gt;&lt;p&gt;모험가 : 프리&lt;/p&gt;&lt;p&gt;광부 : 평일 오후&lt;/p&gt;&lt;p&gt;사육사 : 화수토&lt;/p&gt;&lt;p&gt;조각가 : 수목금토 오후&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="240" width="360" x="820" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-59" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="115" width="210" x="475" y="1222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-58" parent="AOWWeh0qqzr5JTAXAL6s-59" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;벌목장&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-38" parent="AOWWeh0qqzr5JTAXAL6s-59" style="rounded=0;whiteSpace=wrap;html=1;" value="발터" vertex="1">
+          <mxGeometry height="80" width="120" x="45" y="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-60" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="230" x="470" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-57" parent="AOWWeh0qqzr5JTAXAL6s-60" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;목장&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-35" parent="AOWWeh0qqzr5JTAXAL6s-60" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="그레고르" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-36" parent="AOWWeh0qqzr5JTAXAL6s-60" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="로제타" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-37" parent="AOWWeh0qqzr5JTAXAL6s-60" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="아델라" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-61" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="230" x="480" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-56" parent="AOWWeh0qqzr5JTAXAL6s-61" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;대장간&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-30" parent="AOWWeh0qqzr5JTAXAL6s-61" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="드레곤" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-31" parent="AOWWeh0qqzr5JTAXAL6s-61" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="제자" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-63" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="230" x="465" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-54" parent="AOWWeh0qqzr5JTAXAL6s-63" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;농장&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-22" parent="AOWWeh0qqzr5JTAXAL6s-63" style="rounded=0;whiteSpace=wrap;html=1;" value="할아버지" vertex="1">
+          <mxGeometry height="80" width="120" x="55" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-23" parent="AOWWeh0qqzr5JTAXAL6s-63" style="rounded=0;whiteSpace=wrap;html=1;" value="할머니" vertex="1">
+          <mxGeometry height="80" width="120" x="55" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-62" connectable="0" parent="AOWWeh0qqzr5JTAXAL6s-63" style="group" value="" vertex="1">
+          <mxGeometry height="115" width="210" x="5" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-55" parent="AOWWeh0qqzr5JTAXAL6s-62" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;길드&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-24" parent="AOWWeh0qqzr5JTAXAL6s-62" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#ae4132;" value="필리아" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-64" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="500" width="230" x="480" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-52" parent="AOWWeh0qqzr5JTAXAL6s-64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;공작성&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="500" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-1" parent="AOWWeh0qqzr5JTAXAL6s-64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="공작" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-15" parent="AOWWeh0qqzr5JTAXAL6s-64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="시녀" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-17" parent="AOWWeh0qqzr5JTAXAL6s-64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="집사" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="AOWWeh0qqzr5JTAXAL6s-20" parent="AOWWeh0qqzr5JTAXAL6s-64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="기사" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
