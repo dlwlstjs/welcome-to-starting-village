@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="OonduI8SVLbJbuuly3my">
-    <mxGraphModel dx="1343" dy="3059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="2429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-20" edge="1" parent="1" source="a_XpxcQ3pHRQlYm0o3yE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a_XpxcQ3pHRQlYm0o3yE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="5개월&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="140" x="1200" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-17" edge="1" parent="1" source="a_XpxcQ3pHRQlYm0o3yE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a_XpxcQ3pHRQlYm0o3yE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="3개월&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="140" x="870" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-16" edge="1" parent="1" source="a_XpxcQ3pHRQlYm0o3yE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a_XpxcQ3pHRQlYm0o3yE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="2개월&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="140" x="680" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-19" edge="1" parent="1" source="a_XpxcQ3pHRQlYm0o3yE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a_XpxcQ3pHRQlYm0o3yE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="4개월&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="140" x="1030" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-14" edge="1" parent="1" source="a_XpxcQ3pHRQlYm0o3yE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a_XpxcQ3pHRQlYm0o3yE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="1개월&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="330" x="280" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="6개월&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="140" x="1360" y="1560" as="geometry" />
+        </mxCell>
         <mxCell id="x5bWyNsJQMMhn6YmUZaD-9" edge="1" parent="1" source="x5bWyNsJQMMhn6YmUZaD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x5bWyNsJQMMhn6YmUZaD-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -319,6 +352,27 @@
         </mxCell>
         <mxCell id="AOWWeh0qqzr5JTAXAL6s-20" parent="AOWWeh0qqzr5JTAXAL6s-64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="기사" vertex="1">
           <mxGeometry height="80" width="120" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;프롤로그&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="마왕침공" vertex="1">
+          <mxGeometry height="80" width="120" x="1370" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;호감 이벤트&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="880" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="친구 이벤트" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;프로포즈 이벤트&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1210" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;축제 이벤트&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1040" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="a_XpxcQ3pHRQlYm0o3yE-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="도난 이벤트" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="1640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
